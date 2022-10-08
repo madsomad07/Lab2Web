@@ -1,8 +1,6 @@
 # Lab2Web
 Abdus Shomad (312110089) TI.21.B1
-Screenshot 1
 ![Gambar 1](Screenshot/SS1.png)
-Screenshot 2
 ![Gambar 2](Screenshot/SS2.png)
 
 #TUGAS
