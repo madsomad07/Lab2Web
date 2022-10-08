@@ -1,0 +1,37 @@
+nav {
+    background: rgb(247,116,0);
+    background: radial-gradient(circle, rgba(247,116,0,1) 50%, rgba(255,239,0,1) 100%);;
+    color: #fff;
+    padding: 10px;
+}
+nav a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    padding: 10px 20px;
+}
+nav .active,
+nav a:hover {
+    background: #eeff05;
+}
+#intro {
+    background: #D2001A;
+    border: 1px solid #000000;
+    min-height: 100px;
+    padding: 10px;
+}
+#intro h1 {
+    text-align: left;
+    border: 0;
+    color: rgb(15, 15, 15);
+}
+.button {
+    padding: 15px 20px;
+    background: #ff0080;
+    color: #fff;
+    display: inline-block;
+    margin: 10px;
+    text-decoration: none;
+}
+.button_btn-primary {
+    background: #e42a42;
+}
